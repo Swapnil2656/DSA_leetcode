@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0011-container-with-most-water) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
