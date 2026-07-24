@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0054-spiral-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
