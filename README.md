@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0054-spiral-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Math
@@ -45,5 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0054-spiral-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
