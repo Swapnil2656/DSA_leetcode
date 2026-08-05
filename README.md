@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
