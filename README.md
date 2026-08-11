@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0069-sqrtx) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0067-add-binary) |
 | [2580-circular-sentence](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2580-circular-sentence) |
 | [3379-score-of-a-string](https://github.com/Swapnil2656/DSA_leetcode/tree/master/3379-score-of-a-string) |
 ## Binary Search
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0180-consecutive-numbers) |
 | [0262-trips-and-users](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0262-trips-and-users) |
 | [0620-not-boring-movies](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0620-not-boring-movies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
