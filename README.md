@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0907-koko-eating-bananas) |
