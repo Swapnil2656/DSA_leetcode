@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0274-h-index) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
