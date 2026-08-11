@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0070-climbing-stairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0070-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
