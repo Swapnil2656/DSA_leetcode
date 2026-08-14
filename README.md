@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0274-h-index) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
