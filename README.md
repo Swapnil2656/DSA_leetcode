@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Matrix
 |  |
 | ------- |
