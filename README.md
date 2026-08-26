@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0013-roman-to-integer) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0067-add-binary) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2580-circular-sentence](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2580-circular-sentence) |
 | [3379-score-of-a-string](https://github.com/Swapnil2656/DSA_leetcode/tree/master/3379-score-of-a-string) |
 ## Binary Search
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0274-h-index) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Database
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
