@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0013-roman-to-integer) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0067-add-binary) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2580-circular-sentence](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2580-circular-sentence) |
 | [3379-score-of-a-string](https://github.com/Swapnil2656/DSA_leetcode/tree/master/3379-score-of-a-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
