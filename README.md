@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Swapnil2656/DSA_leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0070-climbing-stairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Swapnil2656/DSA_leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
