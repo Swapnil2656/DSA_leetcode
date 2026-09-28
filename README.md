@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0275-h-index-ii) |
+| [0354-russian-doll-envelopes](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0275-h-index-ii) |
+| [0354-russian-doll-envelopes](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -117,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0070-climbing-stairs) |
+| [0354-russian-doll-envelopes](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0274-h-index) |
+| [0354-russian-doll-envelopes](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Heap (Priority Queue)
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1185-find-in-mountain-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
