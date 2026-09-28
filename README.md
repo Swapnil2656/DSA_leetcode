@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0907-koko-eating-bananas) |
+| [1185-find-in-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0907-koko-eating-bananas) |
+| [1185-find-in-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1185-find-in-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1185-find-in-mountain-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
