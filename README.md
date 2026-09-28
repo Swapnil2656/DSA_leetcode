@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0070-climbing-stairs) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Swapnil2656/DSA_leetcode/tree/master/4256-construct-uniform-parity-array-i) |
 ## Number Theory
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Swapnil2656/DSA_leetcode/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/Swapnil2656/DSA_leetcode/tree/master/1185-find-in-mountain-array) |
